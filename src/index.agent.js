@@ -32,4 +32,4 @@ const agent = {
   },
 };
 
-module.exports = agent;
+export default agent;
